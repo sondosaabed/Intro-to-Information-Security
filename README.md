@@ -1,6 +1,6 @@
 # Intro-to-Information-Security
 
-This is a two part course in information Security:
+This is a three parts course in information Security:
 
 ## Part one: Single computer Security 
 This part includes the lessions that starts with P1:
@@ -11,6 +11,7 @@ This part includes the lessions that starts with P1:
 - L5-Access-Control
 - L6-Mandatory-Access-Control
 - L7-DatabaseSecurity
+
 ## Part two: Network Security
 This part includes the lessons that starts with P2:
 - L1-Malicious-Software
