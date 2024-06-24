@@ -17,3 +17,4 @@ This part includes the lessons that starts with P2:
 - L1-Malicious-Software
 - L2-Modern-Malware
 - L3-Firewalls
+- L4-Intrusion-Detection
