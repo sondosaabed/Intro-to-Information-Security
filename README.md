@@ -22,3 +22,12 @@ This part includes the lessons that starts with P2:
 - L6-Symmetric-Encryption
 - L7
 - L8-Hashes
+- L9
+- L10
+- L11
+- L12
+
+## Part three: Ogranizational Context
+This part includes the lessons that starts with P3:
+- L1-Cyber-Security-Management
+- L2-Law-Ethics-and-Privacy
