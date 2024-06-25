@@ -19,3 +19,4 @@ This part includes the lessons that starts with P2:
 - L3-Firewalls
 - L4-Intrusion-Detection
 - L5-Intro-to-Cryptography-Script
+- L6-Symmetric-Encryption
