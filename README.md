@@ -20,7 +20,7 @@ This part includes the lessons that starts with P2:
 - L4-Intrusion-Detection
 - L5-Intro-to-Cryptography-Script
 - L6-Symmetric-Encryption
-- L7
+- L7-Public-Key-Cryptography
 - L8-Hashes
 - L9
 - L10
